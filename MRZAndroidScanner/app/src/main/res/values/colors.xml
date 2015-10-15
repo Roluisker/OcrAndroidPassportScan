@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="camera_box_corner">#ffffffff</color>
+    <color name="camera_box_frame">#ffd6d6d6</color>
+    <color name="camera_box_mask">#60000000</color>
+    <color name="dark_blue">#111b40</color>
+    <color name="neutral_white">#ffffff</color>
+</resources>

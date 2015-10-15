@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MRZAndroidScanner</string>
+    <string name="try_scan">Try Scan</string>
+    <string name="ocr_title">MRZ Scann</string>
+</resources>
